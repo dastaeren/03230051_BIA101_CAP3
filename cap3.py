@@ -11,7 +11,7 @@
 # https://www.geeksforgeeks.org/file-handling-python/
 
 # SOLUTION
-# The total sum of from the given input file 051.txt is <your answer>
+# The total sum of from the given input file 051.txt is 487782
 
 def load_input(file_path): #Reads the input file and returns a list of lines.
 
