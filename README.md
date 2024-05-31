@@ -1,4 +1,4 @@
-# Sum of Two-Digit Numbers from Text File
+## Sum of Two-Digit Numbers from Text File
 
 This Python script reads a text file, extracts two-digit numbers from each line, and calculates their sum.
 
@@ -16,9 +16,13 @@ This Python script reads a text file, extracts two-digit numbers from each line,
 -  https://youtu.be/BRrem1k3904?si=qY50UkN7maRS-QDI 
 -  https://www.youtube.com/watch?v=bnSYeYFRCaA
   
+## Solution
 
-# Github Repo link: https://github.com/dastaeren/03230051_BIA101_CAP3 
-# Your Name: Deki Yangzom
-# Your Section: A
-# Your Student ID Number: 03230051
+- The total sum of from the given input file 051.txt is 487782
+  
+
+## Github Repo link: https://github.com/dastaeren/03230051_BIA101_CAP3 
+## Name: Deki Yangzom
+## Section: A
+## Student ID Number: 03230051
 
